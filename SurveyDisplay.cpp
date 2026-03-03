@@ -11,7 +11,7 @@
  *
  * ### Command-line interface
  * @code
- *   Usage: delta69_viewer [options] [csv]
+ *   Usage: surveyViewer [options] [csv]
  *
  *   Options:
  *     -h, --help           Show this help message and exit.
@@ -57,7 +57,7 @@
 int main(int argc, char* argv[])
 {
     QApplication app(argc, argv);
-    app.setApplicationName("delta69_viewer");
+    app.setApplicationName("SurfaceSurveyViewer");
     app.setApplicationVersion("1.0");
     app.setOrganizationName("CMDR REZKIN");
 
