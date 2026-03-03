@@ -1,21 +1,51 @@
-MIT License
+PolyForm Noncommercial License 1.0.0
 
-Copyright (c) 2026 cmdrRezkin
+Copyright (c) 2026 CMDR REZKIN
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Acceptance
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+By using the software, you agree to all of the terms and conditions below.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Copyright License
+
+The licensor grants you a non-exclusive, royalty-free, worldwide,
+non-sublicensable, non-transferable license to use, copy, distribute,
+make available, and prepare derivative works of the software, in each case
+for noncommercial purposes only.
+
+Noncommercial Purposes
+
+A noncommercial purpose is any purpose other than:
+  - selling, licensing, or otherwise commercialising the software or
+    derivative works;
+  - incorporating the software into a product or service for which direct
+    or indirect payment is received;
+  - using the software in the operation of a for-profit business.
+
+Notices
+
+You must ensure that anyone who gets a copy of any part of the software
+from you also gets a copy of these terms. If you modify the software, you
+must include in any modified copies a prominent notice stating that you
+have modified the software.
+
+No Other Rights
+
+These terms do not allow you to sublicense or transfer any of your licenses
+to anyone else. Any attempt to do so will make those licenses void
+automatically.
+
+Patent License
+
+The licensor grants you a license, under any patent claims the licensor
+can license, or becomes able to license, to make, have made, use, import,
+and have imported the software, in each case for noncommercial purposes only.
+
+No Liability
+
+AS FAR AS THE LAW ALLOWS, THE SOFTWARE COMES AS IS, WITHOUT ANY WARRANTY
+OR CONDITION, AND THE LICENSOR WILL NOT BE LIABLE TO YOU FOR ANY DAMAGES
+ARISING OUT OF THESE TERMS OR THE USE OR NATURE OF THE SOFTWARE, UNDER
+ANY KIND OF LEGAL CLAIM.
+
+Full license text: https://polyformproject.org/licenses/noncommercial/1.0.0
