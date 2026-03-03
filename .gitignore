@@ -1,0 +1,36 @@
+# Build directories
+build/
+cmake-build-*/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+CMakeLists.txt.bak
+cmake_install.cmake
+CTestTestfile.cmake
+compile_commands.json
+
+# Qt MOC / autogen
+*_autogen/
+
+# QCustomPlot (fetch your own copy from https://www.qcustomplot.com)
+qcustomplot.h
+qcustomplot.cpp
+
+# EDSM / HR diagram tools (not part of this project)
+edsm_hr.cpp
+EDSMQuery.h
+EDSMQuery.cpp
+
+# Orphaned / unused files
+ScatterMapWidget.h
+ScatterMapWidget.cpp
+
+# IDE / local config
+.clangd
+.vscode/
+.idea/
+*.user
+
+# macOS
+.DS_Store
